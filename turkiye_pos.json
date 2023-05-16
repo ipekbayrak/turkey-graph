@@ -1,0 +1,326 @@
+{
+    "Adana": {
+        "Enlem": 37.0,
+        "Boylam": 35.321333
+    },
+    "Adıyaman": {
+        "Enlem": 37.764751,
+        "Boylam": 38.278561
+    },
+    "Afyonkarahisar": {
+        "Enlem": 38.750714,
+        "Boylam": 30.556692
+    },
+    "Ağrı": {
+        "Enlem": 39.626922,
+        "Boylam": 43.0215960
+    },
+    "Aksaray": {
+        "Enlem": 38.36869,
+        "Boylam": 34.03698
+    },
+    "Amasya": {
+        "Enlem": 40.64991,
+        "Boylam": 35.83532
+    },
+    "Ankara": {
+        "Enlem": 39.92077,
+        "Boylam": 32.85411
+    },
+    "Antalya": {
+        "Enlem": 36.88414,
+        "Boylam": 30.70563
+    },
+    "Ardahan": {
+        "Enlem": 41.110481,
+        "Boylam": 42.702171
+    },
+    "Artvin": {
+        "Enlem": 41.18277,
+        "Boylam": 41.818292
+    },
+    "Aydın": {
+        "Enlem": 37.856041,
+        "Boylam": 27.841631
+    },
+    "Balıkesir": {
+        "Enlem": 39.648369,
+        "Boylam": 27.88261
+    },
+    "Bartın": {
+        "Enlem": 41.581051,
+        "Boylam": 32.460979
+    },
+    "Batman": {
+        "Enlem": 37.881168,
+        "Boylam": 41.13509
+    },
+    "Bayburt": {
+        "Enlem": 40.255169,
+        "Boylam": 40.22488
+    },
+    "Bilecik": {
+        "Enlem": 40.056656,
+        "Boylam": 30.066524
+    },
+    "Bingöl": {
+        "Enlem": 39.062635,
+        "Boylam": 40.76961
+    },
+    "Bitlis": {
+        "Enlem": 38.393799,
+        "Boylam": 42.12318
+    },
+    "Bolu": {
+        "Enlem": 40.575977,
+        "Boylam": 31.578809
+    },
+    "Burdur": {
+        "Enlem": 37.461267,
+        "Boylam": 30.066524
+    },
+    "Bursa": {
+        "Enlem": 40.266864,
+        "Boylam": 29.063448
+    },
+    "Çanakkale": {
+        "Enlem": 40.155312,
+        "Boylam": 26.41416
+    },
+    "Çankırı": {
+        "Enlem": 40.601343,
+        "Boylam": 33.613421
+    },
+    "Çorum": {
+        "Enlem": 40.550556,
+        "Boylam": 34.955556
+    },
+    "Denizli": {
+        "Enlem": 37.77652,
+        "Boylam": 29.08639
+    },
+    "Diyarbakır": {
+        "Enlem": 37.91441,
+        "Boylam": 40.230629
+    },
+    "Düzce": {
+        "Enlem": 40.843849,
+        "Boylam": 31.15654
+    },
+    "Edirne": {
+        "Enlem": 41.681808,
+        "Boylam": 26.562269
+    },
+    "Elazığ": {
+        "Enlem": 38.680969,
+        "Boylam": 39.226398
+    },
+    "Erzincan": {
+        "Enlem": 39.75,
+        "Boylam": 39.5
+    },
+    "Erzurum": {
+        "Enlem": 39.9,
+        "Boylam": 41.27
+    },
+    "Eskişehir": {
+        "Enlem": 39.776667,
+        "Boylam": 30.520556
+    },
+    "Gaziantep": {
+        "Enlem": 37.06622,
+        "Boylam": 37.38332
+    },
+    "Giresun": {
+        "Enlem": 40.912811,
+        "Boylam": 38.38953
+    },
+    "Gümüşhane": {
+        "Enlem": 40.438588,
+        "Boylam": 39.508556
+    },
+    "Hakkari": {
+        "Enlem": 37.583333,
+        "Boylam": 43.733333
+    },
+    "Hatay": {
+        "Enlem": 36.401849,
+        "Boylam": 36.34981
+    },
+    "Iğdır": {
+        "Enlem": 39.887984,
+        "Boylam": 44.004836
+    },
+    "Isparta": {
+        "Enlem": 37.764771,
+        "Boylam": 30.556561
+    },
+    "İstanbul": {
+        "Enlem": 41.00527,
+        "Boylam": 28.97696
+    },
+    "İzmir": {
+        "Enlem": 38.41885,
+        "Boylam": 27.12872
+    },
+    "Kahramanmaraş": {
+        "Enlem": 37.585831,
+        "Boylam": 36.937149
+    },
+    "Karabük": {
+        "Enlem": 41.2061,
+        "Boylam": 32.62035
+    },
+    "Karaman": {
+        "Enlem": 37.17593,
+        "Boylam": 33.228748
+    },
+    "Kars": {
+        "Enlem": 40.616667,
+        "Boylam": 43.1
+    },
+    "Kastamonu": {
+        "Enlem": 41.38871,
+        "Boylam": 33.78273
+    },
+    "Kayseri": {
+        "Enlem": 38.73122,
+        "Boylam": 35.478729
+    },
+    "Kırıkkale": {
+        "Enlem": 39.846821,
+        "Boylam": 33.515251
+    },
+    "Kırklareli": {
+        "Enlem": 41.733333,
+        "Boylam": 27.216667
+    },
+    "Kırşehir": {
+        "Enlem": 39.14249,
+        "Boylam": 34.17091
+    },
+    "Kilis": {
+        "Enlem": 36.718399,
+        "Boylam": 37.12122
+    },
+    "Kocaeli": {
+        "Enlem": 40.85327,
+        "Boylam": 29.88152
+    },
+    "Konya": {
+        "Enlem": 37.866667,
+        "Boylam": 32.483333
+    },
+    "Kütahya": {
+        "Enlem": 39.416667,
+        "Boylam": 29.983333
+    },
+    "Malatya": {
+        "Enlem": 38.35519,
+        "Boylam": 38.30946
+    },
+    "Manisa": {
+        "Enlem": 38.619099,
+        "Boylam": 27.428921
+    },
+    "Mardin": {
+        "Enlem": 37.321163,
+        "Boylam": 40.724477
+    },
+    "Mersin": {
+        "Enlem": 36.8,
+        "Boylam": 34.633333
+    },
+    "Muğla": {
+        "Enlem": 37.215278,
+        "Boylam": 28.363611
+    },
+    "Muş": {
+        "Enlem": 38.946189,
+        "Boylam": 41.753893
+    },
+    "Nevşehir": {
+        "Enlem": 38.69394,
+        "Boylam": 34.685651
+    },
+    "Niğde": {
+        "Enlem": 37.966667,
+        "Boylam": 34.683333
+    },
+    "Ordu": {
+        "Enlem": 40.983879,
+        "Boylam": 37.876411
+    },
+    "Osmaniye": {
+        "Enlem": 37.213026,
+        "Boylam": 36.176261
+    },
+    "Rize": {
+        "Enlem": 41.02005,
+        "Boylam": 40.523449
+    },
+    "Sakarya": {
+        "Enlem": 40.693997,
+        "Boylam": 30.435763
+    },
+    "Samsun": {
+        "Enlem": 41.292782,
+        "Boylam": 36.33128
+    },
+    "Siirt": {
+        "Enlem": 37.933333,
+        "Boylam": 41.95
+    },
+    "Sinop": {
+        "Enlem": 42.02314,
+        "Boylam": 35.153069
+    },
+    "Sivas": {
+        "Enlem": 39.747662,
+        "Boylam": 37.017879
+    },
+    "Şanlıurfa": {
+        "Enlem": 37.159149,
+        "Boylam": 38.796909
+    },
+    "Şırnak": {
+        "Enlem": 37.418748,
+        "Boylam": 42.491834
+    },
+    "Tekirdağ": {
+        "Enlem": 40.983333,
+        "Boylam": 27.516667
+    },
+    "Tokat": {
+        "Enlem": 40.316667,
+        "Boylam": 36.55
+    },
+    "Trabzon": {
+        "Enlem": 41.00145,
+        "Boylam": 39.7178
+    },
+    "Tunceli": {
+        "Enlem": 39.307355,
+        "Boylam": 39.438778
+    },
+    "Uşak": {
+        "Enlem": 38.682301,
+        "Boylam": 29.40819
+    },
+    "Van": {
+        "Enlem": 38.48914,
+        "Boylam": 43.40889
+    },
+    "Yalova": {
+        "Enlem": 40.65,
+        "Boylam": 29.266667
+    },
+    "Yozgat": {
+        "Enlem": 39.818081,
+        "Boylam": 34.81469
+    },
+    "Zonguldak": {
+        "Enlem": 41.456409,
+        "Boylam": 31.798731
+    }
+}
